@@ -1,1 +1,5 @@
 what is springboot architecture?
+what happens internally when spring boot starts?
+Difference between @Component, @Service, @Repository, @Controller?
+What is dependency injection?
+Constructor injection vs field injection?
